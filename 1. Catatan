@@ -1,0 +1,18 @@
+A) Apa itu functional programming
+    : Pendekatan untuk coding dimana berfokus pada Apa
+    yang ingin diselesaikan bukan bagaimana cara menyelesaikan.
+
+B) Pure Function
+    : Function dimana hasil dari function tersebut bergantung 
+    hanya kepada parameter dari function tersebut. Tidak membuat 
+    effect diluar dari function tersebut. 
+
+C) Immutability
+    : Jangan memodifikasi data, melaiinkan kembalikan nilai baru
+
+D) First Class Functions
+    : Function yang mengambil function lain sebagai argument atau
+    mengembalikan function.
+
+E) Recursive
+    : Teknik pada sebuah function dimana ia memanggil dirinya sendiri.
